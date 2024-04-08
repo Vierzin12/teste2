@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Presente misterioso</title>
+    <title>Date misterioso</title>
     <style>
 
     body{
@@ -47,7 +47,7 @@
 <body>
     
     <div class="painel">
-        <h1>Manda 1000 no pix pra eu comprar jogo?</h1>
+        <h1>Cuzinho hoje?</h1>
 
         <a href="https://www.youtube.com/watch?v=orWnzqBA63w&ab_channel=YusufScott"><button id="sim"> Sim! </button></a>
         <button onmouseover="fuja()" id="nao"> Não </button>
